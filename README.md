@@ -1,1 +1,3 @@
-# Sample_Repo
+# Welcome to Sample Repo
+
+Repo authored by Sharon Lua
